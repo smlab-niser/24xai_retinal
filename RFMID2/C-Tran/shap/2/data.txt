@@ -1,0 +1,14 @@
+Image No. 247:
+Top Predictions: 0.9866, 0.7909, 0.1086, 0.0720
+Top Class IDs: [ 3 12 13 14]
+Top Class Names: ['ODC', 'RS', 'ODE', 'LS']
+Predicted Classes: ['ODC', 'RS']
+True Classes: ['ODC']
+
+Image No. 290:
+Top Predictions: 0.9963, 0.3152, 0.1460, 0.0690
+Top Class IDs: [ 3 12 14 11]
+Top Class Names: ['ODC', 'RS', 'LS', 'CNV']
+Predicted Classes: ['ODC']
+True Classes: ['ODC']
+

@@ -1,0 +1,9 @@
+Groundtruths
+Original Images
+*.png
+*.tif
+mured-data
+rfmid-data
+__pycache__
+**/models/**
+*.pth
