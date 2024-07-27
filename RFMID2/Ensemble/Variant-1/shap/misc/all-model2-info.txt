@@ -1,0 +1,93 @@
+Image No. 207:
+Image names js793:
+Top Predictions: 0.9252, 0.0527, 0.0432, 0.0323
+Top Class IDs: [ 0 19 16  6]
+Top Class Names: ['DR', 'OTHER', 'HTR', 'DN']
+Predicted Classes: ['DR']
+True Classes: ['ARMD', 'CNV', 'HTR', 'ASR']
+
+Image No. 222:
+Image names rf18:
+Top Predictions: 0.9903, 0.2028, 0.0680, 0.0677
+Top Class IDs: [ 0 17  3 19]
+Top Class Names: ['DR', 'ASR', 'ODC', 'OTHER']
+Predicted Classes: ['DR']
+True Classes: ['DR', 'ASR']
+
+Image No. 345:
+Image names js237:
+Top Predictions: 0.7906, 0.1949, 0.0887, 0.0308
+Top Class IDs: [15 18 19  9]
+Top Class Names: ['CSR', 'CRS', 'OTHER', 'ODP']
+Predicted Classes: ['CSR']
+True Classes: ['CSR']
+
+Image No. 403:
+Image names js245:
+Top Predictions: 0.9930, 0.0535, 0.0106, 0.0101
+Top Class IDs: [16  1  5  0]
+Top Class Names: ['HTR', 'NORMAL', 'ARMD', 'DR']
+Predicted Classes: ['HTR']
+True Classes: ['HTR']
+
+Image No. 418:
+Image names im0007:
+Top Predictions: 0.9479, 0.1560, 0.0070, 0.0056
+Top Class IDs: [15  3 18  1]
+Top Class Names: ['CSR', 'ODC', 'CRS', 'NORMAL']
+Predicted Classes: ['CSR']
+True Classes: ['CSR']
+
+Image No. 448:
+Image names im0117:
+Top Predictions: 0.4350, 0.1969, 0.0505, 0.0483
+Top Class IDs: [16  0  8 19]
+Top Class Names: ['HTR', 'DR', 'BRVO', 'OTHER']
+Predicted Classes: []
+True Classes: ['HTR']
+
+Thresholds:
+0.46
+0.2
+0.4
+0.65
+0.5
+0.53
+0.57
+0.44
+0.3
+0.65
+0.39
+0.35
+0.24
+0.26
+0.21
+0.62
+0.71
+0.6
+0.45
+0.21
+0.2
+
+Class Names:
+DR
+NORMAL
+MH
+ODC
+TSLN
+ARMD
+DN
+MYA
+BRVO
+ODP
+CRVO
+CNV
+RS
+ODE
+LS
+CSR
+HTR
+ASR
+CRS
+OTHER
+RB

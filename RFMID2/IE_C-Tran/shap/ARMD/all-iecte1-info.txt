@@ -1,0 +1,77 @@
+Image No. 295:
+Image names aria_a_13_2:
+Top Predictions: 0.9902, 0.4909, 0.0287, 0.0243
+Top Class IDs: [11 19  5 17]
+Top Class Names: ['CNV', 'OTHER', 'ARMD', 'ASR']
+Predicted Classes: ['CNV']
+True Classes: ['ARMD', 'CNV']
+
+Image No. 1729:
+Image names im0151:
+Top Predictions: 0.8593, 0.1124, 0.0285, 0.0088
+Top Class IDs: [ 5 19 18  4]
+Top Class Names: ['ARMD', 'OTHER', 'CRS', 'TSLN']
+Predicted Classes: ['ARMD']
+True Classes: ['ARMD']
+
+Image No. 1930:
+Image names js888:
+Top Predictions: 1.0000, 0.0020, 0.0014, 0.0005
+Top Class IDs: [ 5 18  4  6]
+Top Class Names: ['ARMD', 'CRS', 'TSLN', 'DN']
+Predicted Classes: ['ARMD']
+True Classes: ['ARMD']
+
+Image No. 2514:
+Image names 1592:
+Top Predictions: 0.9996, 0.0013, 0.0008, 0.0005
+Top Class IDs: [ 5 17 18  4]
+Top Class Names: ['ARMD', 'ASR', 'CRS', 'TSLN']
+Predicted Classes: ['ARMD']
+True Classes: ['ARMD']
+
+Thresholds:
+0.5
+0.7
+0.83
+0.75
+0.89
+0.6
+0.14
+0.41
+0.9
+0.94
+0.51
+0.07
+0.92
+0.09
+0.59
+0.97
+0.32
+0.37
+0.98
+0.54
+0.43
+
+Class Names:
+DR
+NORMAL
+MH
+ODC
+TSLN
+ARMD
+DN
+MYA
+BRVO
+ODP
+CRVO
+CNV
+RS
+ODE
+LS
+CSR
+HTR
+ASR
+CRS
+OTHER
+RB

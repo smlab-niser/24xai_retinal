@@ -1,0 +1,85 @@
+Image No. 247:
+Image names 65:
+Top Predictions: 0.9248, 0.2702, 0.1520, 0.0146
+Top Class IDs: [ 3  6  1 19]
+Top Class Names: ['ODC', 'DN', 'NORMAL', 'OTHER']
+Predicted Classes: ['ODC']
+True Classes: ['ODC']
+
+Image No. 399:
+Image names 171:
+Top Predictions: 0.9760, 0.0587, 0.0325, 0.0262
+Top Class IDs: [ 3 15  1  4]
+Top Class Names: ['ODC', 'CSR', 'NORMAL', 'TSLN']
+Predicted Classes: ['ODC']
+True Classes: ['ODC']
+
+Image No. 1906:
+Image names 1370:
+Top Predictions: 0.9906, 0.0500, 0.0432, 0.0228
+Top Class IDs: [3 1 6 9]
+Top Class Names: ['ODC', 'NORMAL', 'DN', 'ODP']
+Predicted Classes: ['ODC']
+True Classes: ['ODC']
+
+Image No. 2457:
+Image names js61:
+Top Predictions: 0.9881, 0.0559, 0.0397, 0.0288
+Top Class IDs: [3 9 4 1]
+Top Class Names: ['ODC', 'ODP', 'TSLN', 'NORMAL']
+Predicted Classes: ['ODC']
+True Classes: ['ODC']
+
+Image No. 3339:
+Image names js85:
+Top Predictions: 0.9865, 0.2189, 0.0348, 0.0318
+Top Class IDs: [3 4 9 1]
+Top Class Names: ['ODC', 'TSLN', 'ODP', 'NORMAL']
+Predicted Classes: ['ODC']
+True Classes: ['ODC']
+
+Thresholds:
+0.46
+0.2
+0.4
+0.65
+0.5
+0.53
+0.57
+0.44
+0.3
+0.65
+0.39
+0.35
+0.24
+0.26
+0.21
+0.62
+0.71
+0.6
+0.45
+0.21
+0.2
+
+Class Names:
+DR
+NORMAL
+MH
+ODC
+TSLN
+ARMD
+DN
+MYA
+BRVO
+ODP
+CRVO
+CNV
+RS
+ODE
+LS
+CSR
+HTR
+ASR
+CRS
+OTHER
+RB

@@ -1,0 +1,85 @@
+Image No. 309:
+Image names 2:
+Top Predictions: 0.3820, 0.3424, 0.0062, 0.0040
+Top Class IDs: [19  0  1  8]
+Top Class Names: ['OTHER', 'DR', 'NORMAL', 'BRVO']
+Predicted Classes: []
+True Classes: ['DR']
+
+Image No. 1733:
+Image names 18:
+Top Predictions: 0.9943, 0.1865, 0.0252, 0.0098
+Top Class IDs: [ 0 14 19  9]
+Top Class Names: ['DR', 'LS', 'OTHER', 'ODP']
+Predicted Classes: ['DR']
+True Classes: ['DR']
+
+Image No. 1738:
+Image names aria_d_25_33:
+Top Predictions: 0.9930, 0.9742, 0.9465, 0.0070
+Top Class IDs: [19 14  0 12]
+Top Class Names: ['OTHER', 'LS', 'DR', 'RS']
+Predicted Classes: ['OTHER', 'LS', 'DR']
+True Classes: ['DR', 'LS', 'OTHER']
+
+Image No. 1991:
+Image names im0187:
+Top Predictions: 0.2512, 0.1362, 0.1327, 0.0350
+Top Class IDs: [11 16  0 19]
+Top Class Names: ['CNV', 'HTR', 'DR', 'OTHER']
+Predicted Classes: []
+True Classes: ['DR']
+
+Image No. 3336:
+Image names rf653:
+Top Predictions: 0.5597, 0.1715, 0.1679, 0.0173
+Top Class IDs: [0 5 7 4]
+Top Class Names: ['DR', 'ARMD', 'MYA', 'TSLN']
+Predicted Classes: ['DR']
+True Classes: ['DR']
+
+Thresholds:
+0.26
+0.21
+0.26
+0.41
+0.99
+0.5
+0.36
+0.26
+0.15
+0.68
+0.47
+0.41
+0.64
+0.4
+0.17
+0.48
+0.19
+0.13
+0.36
+0.55
+0.35
+
+Class Names:
+DR
+NORMAL
+MH
+ODC
+TSLN
+ARMD
+DN
+MYA
+BRVO
+ODP
+CRVO
+CNV
+RS
+ODE
+LS
+CSR
+HTR
+ASR
+CRS
+OTHER
+RB

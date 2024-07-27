@@ -1,0 +1,117 @@
+Image No. 2478:
+Image names js301:
+Top Predictions: 0.9996, 0.0151, 0.0057, 0.0031
+Top Class IDs: [12  6  5 19]
+Top Class Names: ['RS', 'DN', 'ARMD', 'OTHER']
+Predicted Classes: ['RS']
+True Classes: ['RS']
+
+Image No. 1835:
+Image names js290:
+Top Predictions: 0.9980, 0.9909, 0.9872, 0.9863
+Top Class IDs: [ 4 19  3  0]
+Top Class Names: ['TSLN', 'OTHER', 'ODC', 'DR']
+Predicted Classes: ['TSLN', 'OTHER', 'ODC', 'DR']
+True Classes: ['DR', 'ODC', 'TSLN', 'OTHER']
+
+Image No. 2031:
+Image names 781.png:
+Top Predictions: 0.9996, 0.9990, 0.9856, 0.5292
+Top Class IDs: [19  4  7  3]
+Top Class Names: ['OTHER', 'TSLN', 'MYA', 'ODC']
+Predicted Classes: ['OTHER', 'TSLN', 'MYA', 'ODC']
+True Classes: ['TSLN', 'MYA', 'OTHER']
+
+Image No. 248:
+Image names rf492:
+Top Predictions: 0.9998, 0.1441, 0.0109, 0.0037
+Top Class IDs: [2 3 4 6]
+Top Class Names: ['MH', 'ODC', 'TSLN', 'DN']
+Predicted Classes: ['MH']
+True Classes: ['MH']
+
+Image No. 2033:
+Image names rf287:
+Top Predictions: 0.9794, 0.5409, 0.2217, 0.0187
+Top Class IDs: [ 7  3 18 19]
+Top Class Names: ['MYA', 'ODC', 'CRS', 'OTHER']
+Predicted Classes: ['MYA', 'ODC']
+True Classes: ['MYA']
+
+Image No. 1576:
+Image names 237:
+Top Predictions: 0.9999, 0.9916, 0.0027, 0.0015
+Top Class IDs: [16 17 19  8]
+Top Class Names: ['HTR', 'ASR', 'OTHER', 'BRVO']
+Predicted Classes: ['HTR', 'ASR']
+True Classes: ['HTR', 'ASR']
+
+Image No. 1587:
+Image names rf500:
+Top Predictions: 0.9999, 0.9958, 0.0080, 0.0051
+Top Class IDs: [ 6 16 19  4]
+Top Class Names: ['DN', 'HTR', 'OTHER', 'TSLN']
+Predicted Classes: ['DN', 'HTR']
+True Classes: ['DN', 'HTR']
+
+Image No. 1583:
+Image names im0073:
+Top Predictions: 0.9972, 0.9965, 0.0474, 0.0025
+Top Class IDs: [16  0  3  9]
+Top Class Names: ['HTR', 'DR', 'ODC', 'ODP']
+Predicted Classes: ['HTR', 'DR']
+True Classes: ['DR', 'HTR']
+
+Image No. 1638:
+Image names im0098:
+Top Predictions: 0.9744, 0.0136, 0.0068, 0.0062
+Top Class IDs: [17  9  0 16]
+Top Class Names: ['ASR', 'ODP', 'DR', 'HTR']
+Predicted Classes: ['ASR']
+True Classes: ['ASR']
+
+Thresholds:
+0.2
+0.33
+0.3
+0.41
+0.16
+0.01
+0.14
+0.31
+0.39
+0.03
+0.02
+0.16
+0.45
+0.03
+0.01
+0.01
+0.03
+0.92
+0.76
+0.79
+0.01
+
+Class Names:
+DR
+NORMAL
+MH
+ODC
+TSLN
+ARMD
+DN
+MYA
+BRVO
+ODP
+CRVO
+CNV
+RS
+ODE
+LS
+CSR
+HTR
+ASR
+CRS
+OTHER
+RB

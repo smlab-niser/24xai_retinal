@@ -1,0 +1,101 @@
+Image No. 138:
+Image names 1271:
+Top Predictions: 0.7057, 0.3988, 0.2791, 0.1170
+Top Class IDs: [ 3  7 19  4]
+Top Class Names: ['ODC', 'MYA', 'OTHER', 'TSLN']
+Predicted Classes: ['ODC']
+True Classes: ['ODC', 'TSLN', 'ARMD']
+
+Image No. 155:
+Image names 1386:
+Top Predictions: 0.8318, 0.8299, 0.1615, 0.0323
+Top Class IDs: [ 0  4  7 19]
+Top Class Names: ['DR', 'TSLN', 'MYA', 'OTHER']
+Predicted Classes: ['DR', 'TSLN']
+True Classes: ['DR', 'ODC', 'TSLN']
+
+Image No. 180:
+Image names 1689:
+Top Predictions: 0.5624, 0.3272, 0.2925, 0.0787
+Top Class IDs: [4 3 1 2]
+Top Class Names: ['TSLN', 'ODC', 'NORMAL', 'MH']
+Predicted Classes: ['TSLN']
+True Classes: ['ODC', 'TSLN', 'ODP']
+
+Image No. 237:
+Image names 1550:
+Top Predictions: 0.9852, 0.9531, 0.6112, 0.0986
+Top Class IDs: [16  6  5 19]
+Top Class Names: ['HTR', 'DN', 'ARMD', 'OTHER']
+Predicted Classes: ['HTR', 'DN', 'ARMD']
+True Classes: ['ARMD', 'DN', 'HTR']
+
+Image No. 281:
+Image names im0264:
+Top Predictions: 0.5313, 0.0751, 0.0632, 0.0578
+Top Class IDs: [3 0 2 8]
+Top Class Names: ['ODC', 'DR', 'MH', 'BRVO']
+Predicted Classes: ['ODC']
+True Classes: ['MH', 'ODC', 'TSLN']
+
+Image No. 324:
+Image names rf283:
+Top Predictions: 0.7279, 0.3467, 0.1216, 0.0831
+Top Class IDs: [7 4 3 9]
+Top Class Names: ['MYA', 'TSLN', 'ODC', 'ODP']
+Predicted Classes: ['MYA']
+True Classes: ['MH', 'ODC', 'MYA']
+
+Image No. 360:
+Image names rf186:
+Top Predictions: 0.1082, 0.1075, 0.0798, 0.0456
+Top Class IDs: [13 18 19  1]
+Top Class Names: ['ODE', 'CRS', 'OTHER', 'NORMAL']
+Predicted Classes: []
+True Classes: ['ODC', 'TSLN', 'MYA']
+
+Thresholds:
+0.46
+0.2
+0.4
+0.65
+0.5
+0.53
+0.57
+0.44
+0.3
+0.65
+0.39
+0.35
+0.24
+0.26
+0.21
+0.62
+0.71
+0.6
+0.45
+0.21
+0.2
+
+Class Names:
+DR
+NORMAL
+MH
+ODC
+TSLN
+ARMD
+DN
+MYA
+BRVO
+ODP
+CRVO
+CNV
+RS
+ODE
+LS
+CSR
+HTR
+ASR
+CRS
+OTHER
+RB

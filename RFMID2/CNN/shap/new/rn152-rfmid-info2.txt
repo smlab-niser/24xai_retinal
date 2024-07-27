@@ -1,0 +1,69 @@
+Image No. 2298:
+Image names rf279:
+Top Predictions: 0.4293, 0.0650, 0.0077, 0.0005
+Top Class IDs: [ 2  1 20  4]
+Top Class Names: ['MH', 'NORMAL', 'RB', 'TSLN']
+Predicted Classes: []
+True Classes: ['TSLN', 'MYA', 'OTHER']
+
+Image No. 2258:
+Image names rf301:
+Top Predictions: 0.8989, 0.0261, 0.0235, 0.0141
+Top Class IDs: [20  2  3  1]
+Top Class Names: ['RB', 'MH', 'ODC', 'NORMAL']
+Predicted Classes: ['RB']
+True Classes: ['MH', 'OTHER']
+
+Image No. 2271:
+Image names rf170:
+Top Predictions: 0.3559, 0.2770, 0.0045, 0.0001
+Top Class IDs: [20  3  1  0]
+Top Class Names: ['RB', 'ODC', 'NORMAL', 'DR']
+Predicted Classes: []
+True Classes: ['MH', 'ODC']
+
+Thresholds:
+0.2
+0.33
+0.3
+0.41
+0.16
+0.01
+0.14
+0.31
+0.39
+0.03
+0.02
+0.16
+0.45
+0.03
+0.01
+0.01
+0.03
+0.92
+0.76
+0.79
+0.01
+
+Class Names:
+DR
+NORMAL
+MH
+ODC
+TSLN
+ARMD
+DN
+MYA
+BRVO
+ODP
+CRVO
+CNV
+RS
+ODE
+LS
+CSR
+HTR
+ASR
+CRS
+OTHER
+RB

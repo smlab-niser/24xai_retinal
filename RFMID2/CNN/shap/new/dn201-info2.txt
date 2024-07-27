@@ -1,0 +1,77 @@
+Image No. 526:
+Image names rb36:
+Top Predictions: 0.9904, 0.0045, 0.0033, 0.0025
+Top Class IDs: [20 10  3 11]
+Top Class Names: ['RB', 'CRVO', 'ODC', 'CNV']
+Predicted Classes: ['RB']
+True Classes: ['RB']
+
+Image No. 530:
+Image names rb56:
+Top Predictions: 0.9980, 0.0051, 0.0044, 0.0028
+Top Class IDs: [20  0  3  5]
+Top Class Names: ['RB', 'DR', 'ODC', 'ARMD']
+Predicted Classes: ['RB']
+True Classes: ['RB']
+
+Image No. 534:
+Image names rb101:
+Top Predictions: 0.9957, 0.0038, 0.0033, 0.0023
+Top Class IDs: [20  3  1 19]
+Top Class Names: ['RB', 'ODC', 'NORMAL', 'OTHER']
+Predicted Classes: ['RB']
+True Classes: ['RB']
+
+Image No. 540:
+Image names rb135:
+Top Predictions: 0.9981, 0.0061, 0.0021, 0.0018
+Top Class IDs: [20  0 15  5]
+Top Class Names: ['RB', 'DR', 'CSR', 'ARMD']
+Predicted Classes: ['RB']
+True Classes: ['RB']
+
+Thresholds:
+0.2
+0.33
+0.3
+0.41
+0.16
+0.01
+0.14
+0.31
+0.39
+0.03
+0.02
+0.16
+0.45
+0.03
+0.01
+0.01
+0.03
+0.92
+0.76
+0.79
+0.01
+
+Class Names:
+DR
+NORMAL
+MH
+ODC
+TSLN
+ARMD
+DN
+MYA
+BRVO
+ODP
+CRVO
+CNV
+RS
+ODE
+LS
+CSR
+HTR
+ASR
+CRS
+OTHER
+RB
